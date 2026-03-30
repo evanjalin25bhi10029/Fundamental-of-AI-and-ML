@@ -41,11 +41,11 @@ jupyter notebook
 
 # Example
 Input:
-Study Hours = 5  
-Attendance = 75  
+Study Hours = 4 
+Attendance = 85  
 
 Output:
-Predicted Marks ≈ 62
+Predicted Marks ≈ 82.5
 
 # Features
 - Simple and easy to use
